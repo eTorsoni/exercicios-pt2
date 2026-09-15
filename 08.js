@@ -1,7 +1,7 @@
 //Crie um objeto user com uma propriedade sayHi que seja uma function expression.
 
 const user = {
-    name: "Giovanna",
+    name: "Emanuele",
 
     sayHi: function () {
         return `Olá, ${this.name}!`;
