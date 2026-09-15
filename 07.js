@@ -4,4 +4,4 @@ const greet = function (name) {
     return `Olá, ${name}!`;
 };
 
-console.log(greet("Giovanna")); // Olá, Giovanna!
+console.log(greet("Emanuele")); // Olá, Emanuele!
